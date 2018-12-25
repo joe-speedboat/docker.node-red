@@ -28,7 +28,22 @@
         "node-red-node-msgpack": "*",
         "node-red-node-base64": "*",
         "node-red-node-suncalc": "*",
-        "node-red-node-random": "*"
+        "node-red-node-random": "*",
+        "node-red-contrib-string": "*",
+        "node-red-contrib-timerswitch": "*",
+        "node-red-contrib-bigtimer": "*",
+        "node-red-contrib-hangouts-chat": "*",
+        "node-red-contrib-heater-controller": "*",
+        "node-red-contrib-ifttt": "*",
+        "node-red-contrib-time-range-switch": "*",
+        "node-red-contrib-pushover": "*",
+        "node-red-contrib-email-out": "*",
+        "node-red-node-twitter": "*",
+        "node-red-node-feedparser": "*",
+        "node-red-node-email": "*",
+        "node-red-contrib-mail-parse": "*",
+        "node-red-node-pushbullet": "*",
+        "node-red-contrib-chatbot": "*"
     },
     "engines": {
         "node": "4.*.*"
