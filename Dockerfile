@@ -1,5 +1,5 @@
 ARG NODE_VERSION=6
-FROM docker.io/library/node:${NODE_VERSION}
+FROM node:${NODE_VERSION}
 
 # Home directory for Node-RED application source code.
 RUN mkdir -p /usr/src/node-red
